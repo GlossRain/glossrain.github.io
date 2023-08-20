@@ -6,7 +6,7 @@ subtitle: <a href='#'>ImagingLab@ZJU</a>. (The page is under construction.)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: hjj_personal.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p></p>
